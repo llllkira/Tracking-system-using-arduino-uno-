@@ -4,7 +4,7 @@
 
 SoftwareSerial myown(7, 8); // RX, TX
 String incomingString = "", information;
-String tempstr, number = "670865568"; // Replace with the recipient phone number
+String tempstr, number = "xxxxxxxxxx"; // Replace with the recipient phone number
 String gpsData1;
 bool gpsDataAvailable = false;
 
